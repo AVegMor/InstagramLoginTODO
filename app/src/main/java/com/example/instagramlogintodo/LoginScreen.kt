@@ -1,4 +1,4 @@
-package com.example.instagramlogin
+package com.example.instagramlogintodo
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
